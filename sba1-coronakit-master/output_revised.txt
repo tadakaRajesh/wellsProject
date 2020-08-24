@@ -1,0 +1,13 @@
+
+testListProduct=false
+testInsertNewProduct=false
+testAdminLogin=false
+testEditProductForm=false
+testNewProductForm=true
+testShowNewUserForm=true
+testShowPlaceOrderForm=false
+testAddNewUser=false
+testShowProducts=false
+testShowKitDetails=false
+testSaveOrder=false
+testShowOrderSummary=false
